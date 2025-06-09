@@ -4,8 +4,8 @@ public interface IEmpilhavel <T>
 {
     // métodos principais
     void Empilhar(T dado);
-    T Espiar();
-    T Desempilhar();
+    T? Espiar();
+    T? Desempilhar();
     
     // métodos auxiliares
     bool EstaCheia();

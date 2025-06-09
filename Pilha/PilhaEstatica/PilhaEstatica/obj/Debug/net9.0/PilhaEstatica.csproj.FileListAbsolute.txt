@@ -1,0 +1,14 @@
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/bin/Debug/net9.0/PilhaEstatica
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/bin/Debug/net9.0/PilhaEstatica.deps.json
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/bin/Debug/net9.0/PilhaEstatica.runtimeconfig.json
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/bin/Debug/net9.0/PilhaEstatica.dll
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/bin/Debug/net9.0/PilhaEstatica.pdb
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.AssemblyInfoInputs.cache
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.AssemblyInfo.cs
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.csproj.CoreCompileInputs.cache
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.dll
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/refint/PilhaEstatica.dll
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.pdb
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/PilhaEstatica.genruntimeconfig.cache
+/home/kitsune/Programação/Estruturas de Dados/Estruturas-de-Dados/Pilha/PilhaEstatica/PilhaEstatica/obj/Debug/net9.0/ref/PilhaEstatica.dll
